@@ -5,7 +5,7 @@
 3. Install the dependencies:
 
 ```bash
-npm install or npm
+npm install
 ```
 
 ## Run the code (web preview)
